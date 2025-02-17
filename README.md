@@ -31,7 +31,6 @@
 ## **🌐 Connect With Me**  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mrm0hm3d)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/golden-security)  
-📧 **Email:** [mohamedabdellatifjaber12@gmail.com](mailto:mohamedabdellatifjaber12@gmail.com)  
 
 ---
 
